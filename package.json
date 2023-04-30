@@ -1,7 +1,7 @@
 {
-  "name": "@uniswap/token-lists",
+  "name": "@mageswap/token-lists",
   "author": {
-    "name": "Uniswap Labs",
+    "name": "mageswap Labs",
     "email": "contact@uniswap.org",
     "url": "https://uniswap.org"
   },
@@ -18,7 +18,7 @@
     "node": ">=10"
   },
   "repository": {
-    "url": "https://github.com/Uniswap/token-lists",
+    "url": "https://github.com/mageswap/token-lists",
     "type": "git"
   },
   "scripts": {
